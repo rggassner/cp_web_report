@@ -26,5 +26,7 @@ You might need to change the files mgmt_api_lib/pom.xml and samples/clone_host/p
 ```
   mvn clean install
 ```
+Follow the instructions on:
+
 * https://github.com/CheckPointSW/ShowPolicyPackage
 
