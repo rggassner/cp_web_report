@@ -8,10 +8,10 @@ Checkpoint database daily report
 
 * https://github.com/rggassner/cptapi_get_domains
 
-- Install java
+- Install java and maven
 
 ```
-apt install default-jre
+apt install default-jre maven
 ```
 
 * https://github.com/CheckPointSW/ShowPolicyPackage
