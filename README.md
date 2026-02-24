@@ -13,9 +13,13 @@ Checkpoint database daily report
 ```
 apt install default-jre maven
 ```
+
 - Place the repo in the same directory
   
 * https://github.com/CheckPoint-APIs-Team/cp-mgmt-api-java-sdk
+
+You might need to change the files mgmt_api_lib/pom.xml and samples/clone_host/pom.xml replacing 1.7 to 1.8 in the lines with source and target tags.
+
 
 - Install with
 
