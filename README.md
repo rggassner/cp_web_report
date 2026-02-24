@@ -13,8 +13,14 @@ Checkpoint database daily report
 ```
 apt install default-jre maven
 ```
-
-* https://github.com/CheckPointSW/ShowPolicyPackage
+- Place the repo in the same directory
   
 * https://github.com/CheckPoint-APIs-Team/cp-mgmt-api-java-sdk
+
+- Install with
+
+```
+  mvn clean install
+```
+* https://github.com/CheckPointSW/ShowPolicyPackage
 
